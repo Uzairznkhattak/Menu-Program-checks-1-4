@@ -7,4 +7,6 @@ for 2 gives greetings
 for 3 tells if you can vote or not
 4 if you wanna quit the program completely
 
+covers concepts :
+while loops, if elif and else statements and nested while loops
  You can use my program, its open source :)
